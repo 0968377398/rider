@@ -1,0 +1,6 @@
+D:\raider\T2009M\T2009M\T2009M\bin\Debug\T2009M.exe
+D:\raider\T2009M\T2009M\T2009M\bin\Debug\T2009M.pdb
+D:\raider\T2009M\T2009M\T2009M\obj\Debug\T2009M.csprojAssemblyReference.cache
+D:\raider\T2009M\T2009M\T2009M\obj\Debug\T2009M.csproj.CoreCompileInputs.cache
+D:\raider\T2009M\T2009M\T2009M\obj\Debug\T2009M.exe
+D:\raider\T2009M\T2009M\T2009M\obj\Debug\T2009M.pdb
